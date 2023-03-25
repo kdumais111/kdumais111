@@ -14,13 +14,14 @@ I am passionate about using data to improve peoples daily lives and making data 
 </p>
 
 <h3>🔭 Recent Projects</h3>
+<h4> 🌱  Public Projects Pinned Below! </h4>
+<i><a href='mailto=kdumais@uchicago.edu'> Feel free to reach out with any questions</a></i>
 <h4> 🌱  School Projects </h4>
 <p>  <i>Many repos from school projects are private to follow academic integrity rules and respect intellectual property of professors. Code can be shared with prospective employers upon request.  <a href='mailto=kdumais@uchicago.edu'> Feel free to reach out</a> </i>
 
   <ul>
-  
     <li>Polling Precinct Simulation</li>
-    <li>NLP of Political Tweets</li>'
+    <li>Natural Language Processing of Political Tweets</li>'
     <li>Hashtable Implementation in Python</li>
     <li>Recursive Treemap Algorithm Implementation</li>
     <li>Markov Models for Text Attribution</li>
@@ -31,5 +32,4 @@ I am passionate about using data to improve peoples daily lives and making data 
   </ul>
  </p>
 
-<h4> 🌱  Public Projects Below! </h4>
-<i><a href='mailto=kdumais@uchicago.edu'> Feel free to reach out with any questions</a></i>
+
