@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my github!
 
-<!--
-**kdumais111/kdumais111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+My name is Katherine Dumais (she/her), I am a <a href = 'https://capp.uchicago.edu/'>Computer Science and Public Policy grad student </a> at the University of Chicago. I am interested in civic tech, the intersection between data and public infrastructure, economic equity and IM&E analytics for Impact Investing. 
 
-Here are some ideas to get you started:
+I am passionate about using data to improve peoples daily lives and making data accessable for everyone!
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Things I code with</h3>
+<p>
+  <img alt="Python" src = "https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img alt ="R" src = "https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge&logoWidth=30" />
+  <img alt="Git" src = "https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" /> 
+</p>
+
+<h3>🔭 Recent Projects</h3>
+<h4> 🌱  School Projects </h4>
+<p>  <i>Many repos from school projects are private to follow academic integrity rules and respect intellectual property of professors. Code can be shared with prospective employers upon request.  <a href='mailto=kdumais@uchicago.edu'> Feel free to reach out</a> </i>
+
+  <ul>
+  
+    <li>Polling Precinct Simulation</li>
+    <li>NLP of Political Tweets</li>'
+    <li>Hashtable Implementation in Python</li>
+    <li>Recursive Treemap Algorithm Implementation</li>
+    <li>Markov Models for Text Attribution</li>
+    <li>Web Scraping & Web Crawlers with lXML</li>
+    <li>Basic Database Implementation and Search Engine Interface with SQLite </li>
+    <li>Record Linkage Algorithms</li>
+    <li>Classification Algorithms - Decision Trees, K-Nearest Neighbors, Logistic Regression</li>
+  </ul>
+ </p>
+
+<h4> 🌱  Public Projects Below! </h4>
+<i><a href='mailto=kdumais@uchicago.edu'> Feel free to reach out with any questions</a></i>
