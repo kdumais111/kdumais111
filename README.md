@@ -15,9 +15,9 @@ I am passionate about making data accessible and usable for everyone!
 
 <h3>🔭 Recent Projects</h3>
 <h4> 🌱  Public Projects Pinned Below! </h4>
-<i><a href='mailto=kdumais@uchicago.edu'> Feel free to reach out with any questions</a></i>
+<i><a href='mailto=kdumais@uchicago.edu'> Feel free to reach out with any questions!</a></i>
 <h4> 🌱  School Projects </h4>
-<p>  <i>Many repos from school projects are private to follow academic integrity rules and respect intellectual property of professors. Code can be shared with prospective employers upon request.  <a href='mailto=kdumais@uchicago.edu'> Feel free to reach out</a> </i>
+<p>  <i>Many repos from school projects are private to follow academic integrity rules and respect intellectual property of professors. Code can be shared with prospective employers upon request.  <a href='mailto=kdumais@uchicago.edu'> Feel free to reach out!</a> </i>
 
   <ul>
     <li>Polling Precinct Simulation</li>
