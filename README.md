@@ -3,7 +3,7 @@
 <p>
 My name is Katherine Dumais (she/her), I am a <a href = 'https://capp.uchicago.edu/'>Computer Science and Public Policy grad student </a> at the University of Chicago. I am interested in civic tech, impact investing, the intersection between data and public infrastructure, and economic equity.
 
-I am passionate about making data accessible for everyone!
+I am passionate about making data accessible and usable for everyone!
 </p>
 
 <h3>Things I code with</h3>
