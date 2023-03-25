@@ -21,7 +21,7 @@ I am passionate about using data to improve peoples daily lives and making data 
 
   <ul>
     <li>Polling Precinct Simulation</li>
-    <li>Natural Language Processing of Political Tweets</li>'
+    <li>Natural Language Processing of Political Tweets</li>
     <li>Hashtable Implementation in Python</li>
     <li>Recursive Treemap Algorithm Implementation</li>
     <li>Markov Models for Text Attribution</li>
