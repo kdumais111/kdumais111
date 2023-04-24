@@ -25,7 +25,7 @@ I am passionate about making data accessible and usable for everyone!
     <li>Hashtable Implementation in Python</li>
     <li>Recursive Treemap Algorithm Implementation</li>
     <li>Markov Models for Text Attribution</li>
-    <li>Web Scraping & Web Crawlers with lXML</li>
+    <li>Web Scraping & Web Crawlers with lxml</li>
     <li>Basic Database Implementation and Search Engine Interface with SQLite </li>
     <li>Record Linkage Algorithms</li>
     <li>Classification Algorithms - Decision Trees, K-Nearest Neighbors, Logistic Regression</li>
