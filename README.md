@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my github!
 
 <p>
-My name is Katherine Dumais (she/her), I am a <a href = 'https://capp.uchicago.edu/'>Computer Science and Public Policy grad student </a> at the University of Chicago. I am interested in civic tech, impact investing, the intersection between data and public infrastructure, and economic equity.
+My name is Katherine Dumais (she/her), I recently graduated from <a href = 'https://capp.uchicago.edu/'> A Computer Science and Public Policy Dual Masters </a> at the University of Chicago. I am interested in civic tech, impact investing, the intersection between data and public infrastructure, and economic equity.
 
 I am passionate about making data accessible and usable for everyone!
 </p>
